@@ -1,0 +1,65 @@
+
+
+
+$marks = 10;
+
+
+if($marks>79){
+    echo 'A+';
+}
+esleif(){
+
+}
+
+esleif(){
+
+}
+
+else{
+
+}
+
+
+
+switch(variable/value/expression){
+case: //true
+Statement....
+break:
+
+case: //true
+Statement....
+break:
+
+case: //true
+Statement....
+break:
+
+default:
+Statement...
+break
+}
+
+
+
+
+==, =, ===, +, -, <, >, <=, >=, !, !=, &&, ||
+
+
+
+array [100];
+scanf(%d, &size)  //5
+for(i=0 ;i<size; i++){
+    scanf (%d, array[i]);
+}
+
+scanf (%d, &pos);  //3
+
+scanf (%d, &item) // 60
+
+for(i=0; i<=pos; i++)
+
+array[0] = 10; 0
+array[1] = 20; 1
+array[2] = 50; 2
+array[3] = 60; 3
+array[4] = 20; 4
